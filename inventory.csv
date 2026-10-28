@@ -1,0 +1,9 @@
+
+product_id,product_name,stock_quantity,reorder_level,unit_price,monthly_sales,supplier,delivery_days
+P101,Laptop,15,20,55000,35,TechSupply,5
+P102,Mobile Phone,8,15,18000,60,SmartDistributors,8
+P103,Headphones,50,20,1500,25,AudioWorld,3
+P104,Keyboard,12,25,900,40,TechSupply,6
+P105,Mouse,70,30,500,45,PeripheralsHub,2
+P106,Monitor,6,10,12000,20,DisplayTech,9
+P107,Printer,18,10,8500,8,OfficeSupply,4

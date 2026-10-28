@@ -1,0 +1,20 @@
+
+SUPPLY CHAIN PURCHASING POLICY
+
+1. Reordering:
+Products should be reviewed for reordering when stock reaches or falls below the reorder level.
+
+2. Critical stock:
+If estimated days of stock remaining is less than or equal to supplier delivery time, treat the product as critical.
+
+3. Supplier selection:
+Compare supplier delivery time, price, product quality, and reliability before choosing a supplier.
+
+4. Safety stock:
+Use 15 days of average sales as the sample safety-stock target for this project.
+
+5. Purchase approval:
+AI-generated order suggestions must be reviewed by an authorized employee before an order is placed.
+
+6. Data accuracy:
+If information is missing, state that it is unknown rather than inventing facts.
