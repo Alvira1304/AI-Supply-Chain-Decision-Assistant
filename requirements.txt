@@ -1,10 +1,7 @@
-@"
-pandas
-numpy
+
 streamlit
+pandas
+chromadb
 python-dotenv
 groq
-langchain-text-splitters
-chromadb
 sentence-transformers
-"@ | Set-Content requirements.txt
